@@ -58,10 +58,10 @@ Para realizar el contador tuvimos que pensar en dos estados: **esperando objeto*
 
 Para solucionar esto utilizamos una variable booleana llamada `objetoPresente` y una variable entera llamada `totalObjetos`:
 
-```cpp
+
 int totalObjetos = 0;
 bool objetoPresente = false;
-```
+
 
 La lógica que utilizamos fue la siguiente:
 
