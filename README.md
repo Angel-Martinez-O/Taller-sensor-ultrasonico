@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-- Nombre completo: Angel Martinez, Jesus Aguilar, Andres Bruges
+- Nombre: Angel Martinez, Jesus Aguilar, Andres Bruges
 - Grupo: 3A
 - Asignatura: Fundamentos de Mecatrónica
 
